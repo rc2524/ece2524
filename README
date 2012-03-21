@@ -1,0 +1,3 @@
+This is a bash script that creates or updates a soft link to a folder located in 
+~/Documents/unix/week# where # is the current week number.  Basically keeps a shortcut in the home 
+directory called curweek to this weeks directory.
